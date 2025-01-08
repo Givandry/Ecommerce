@@ -24,7 +24,11 @@ Customer User: customer@gmail.com Password: customer123456
 
 # Team
 Asaduddin Fakhri (221210047)
+
 Qinezta Alifky Fioreno (221210020)
+
 Anggi Vandryan (221210048)
+
 Asri Rahma Ayunanda (221210036)
+
 Nerin Kalyana Putri (221210043)
